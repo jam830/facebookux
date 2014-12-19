@@ -1,7 +1,7 @@
 Facebook - ux
 =============
 
-Change Facebook User Experince
+Change Facebook User Experince -  Only for demostration - Test on Firefox
 ******************************
 
 This is the simple script for change your exprince interation on facebook, 
